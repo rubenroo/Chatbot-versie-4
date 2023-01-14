@@ -11,10 +11,3 @@ Video van ChatGPT die code geeft
 
 
 
-
-
-Video van ChatGPT die code geeft
-[![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](<a href="http://example.com/" target="_blank">example</a>
-)
-
-
