@@ -9,5 +9,6 @@ Deze chatbot in pyton is gemaakt met code van chatGPT
 Video van ChatGPT die code geeft
 [![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](https://www.youtube.com/watch?v=1rM-Nx0jiKE)
 
-
+Toevoeging
+Om de chatbot te laten werken in Binder heb ik de benodige code toegevoegd om NLTK te installeren.
 
