@@ -7,5 +7,14 @@ Deze chatbot in pyton is gemaakt met code van chatGPT
 
 
 Video van ChatGPT die code geeft
-[![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](https://www.youtube.com/embed/1rM-Nx0jiKE)
+[![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](https://www.youtube.com/watch?v=1rM-Nx0jiKE)
+
+
+
+
+
+Video van ChatGPT die code geeft
+[![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](<a href="http://example.com/" target="_blank">example</a>
+)
+
 
