@@ -20,7 +20,7 @@ NLTK (Natural Language Toolkit) is a library in Python that provides tools to wo
 # The results
 ChatGPT managed to successfully create a simple chatbot with NLTK using code in pyton. The code was working within seconds.
 
-I did add the necessary code to install NLTK myself. Without this code, it would not work inside binder. Of course, I asked ChatGPT which code was necessary for this.
+I did add the necessary code to install NLTK myself (!pip install nltk). Without this code, it would not work inside binder. Of course, I asked ChatGPT which code was necessary for this.
 
 # What the chatbot can do
 The chatbot demonstrates the techniques mentioned above. The following questions are possible:
