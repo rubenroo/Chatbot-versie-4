@@ -23,8 +23,8 @@ The Chatbot uses a DNN ((Deep Neural Network) to identify patterns in user input
 The chatbot demonstrates the techniques mentioned above. The following questions are possible:
 
 - You can introduce yourself (Hi, my name is...)
-- You can ask for the bot's name (What is your name?)
-- Ask how he is doing (How are you?)
+- You can ask for the bot's name (What is your name ?)
+- Ask how he is doing (How are you ?)
 - You can say that you are fine (I am fine)
 - End the converstation (Quit)
 
