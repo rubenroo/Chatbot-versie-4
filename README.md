@@ -1,5 +1,5 @@
 # Chatbot-versie-4
-Deze chatbot in pyton is gemaakt met code van chatGPT
+As part of my school project, I asked ChatGPT to provide code for a chatbot in pyton. I specified that I wanted to make use of NLTK. In this repository, I describe the results.
 
 
 
@@ -13,7 +13,7 @@ Om de chatbot te laten werken in Binder heb ik de benodige code toegevoegd om NL
 
 
 # How it works
-The Chatbot uses a DNN ((Deep Neural Network) to identify patterns in user input and generate a relevant response. The NLTK Library in Python is used to extract relevant words from sentences, reduce them to their root form (stemming), and convert them to numerical values (One-Hot Encoding) for use in the neural network. The neural network is created using Tensorflow's Tflearn library, and trained on a dataset of user queries and corresponding responses. Once trained, the model is able to predict a response to a user's query.
+NLTK (Natural Language Toolkit) is a library in Python that provides tools to work with human language data (text) in a variety of ways, such as tokenizing, stemming, and tagging. It also includes a collection of text-based data sets and other resources for natural language processing tasks. The library is built on top of other Python libraries, such as the base Numpy and Scipy libraries, and it is designed to be easy to use and extend. It provides a wide range of functionality including text processing, linguistic data and resources, and wrappers for industrial-strength NLP libraries.
 
 # Video - ChatGPT generating the code
 [![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](https://www.youtube.com/watch?v=1rM-Nx0jiKE)
@@ -27,8 +27,6 @@ The chatbot demonstrates the techniques mentioned above. The following questions
 - Ask how he is doing (How are you ?)
 - You can say that you are fine (I am fine)
 - End the converstation (Quit)
-
-
 
 
 
