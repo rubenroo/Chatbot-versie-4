@@ -12,7 +12,7 @@ As part of my school project, I asked ChatGPT to provide code for a chatbot in p
 
 
 # How it works
-NLTK (Natural Language Toolkit) is a library in Python that provides tools to work with human language data (text) in a variety of ways, such as tokenizing, stemming, and tagging. It also includes a collection of text-based data sets and other resources for natural language processing tasks. The library is built on top of other Python libraries, such as the base Numpy and Scipy libraries, and it is designed to be easy to use and extend. It provides a wide range of functionality including text processing, linguistic data and resources, and wrappers for industrial-strength NLP libraries.
+NLTK (Natural Language Toolkit) is a library in Python that provides tools to work with human language data (text) in a variety of ways, such as tokenizing, stemming, and tagging. It also includes a collection of text-based data sets and other resources for natural language processing tasks. The library is built on top of other Python libraries, such as the base Numpy and Scipy libraries, and it is designed to be easy to use and extend. It provides a wide range of functionality including text processing, linguistic data and resources, and wrappers for industrial-strength NLP libraries.(this paragraph is generated with chatGPT)
 
 # Video - ChatGPT generating the code
 [![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](https://www.youtube.com/watch?v=1rM-Nx0jiKE)
