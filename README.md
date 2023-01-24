@@ -1,5 +1,5 @@
 # Chatbot-versie-4
-As part of my school project, I asked ChatGPT to provide code for a chatbot in pyton. I specified that I wanted to make use of NLTK. In this repository, I describe the results.
+As part of my school project, I asked ChatGPT to provide code for a chatbot in python. I specified that I wanted to make use of NLTK. In this repository, I describe the results.
 
 
 
@@ -18,7 +18,7 @@ NLTK (Natural Language Toolkit) is a library in Python that provides tools to wo
 [![IMAGE ALT TEXT HERE](https://rubenroozemond.nl/wp-content/uploads/2023/01/Screenshot-ChatGPT-v3.png)](https://www.youtube.com/watch?v=1rM-Nx0jiKE)
 
 # The results
-ChatGPT managed to successfully create a simple chatbot with NLTK using code in pyton. The code was working within seconds.
+ChatGPT managed to successfully create a simple chatbot with NLTK using code in python. The code was working within seconds.
 
 I did add the necessary code to install NLTK myself (!pip install nltk). Without this code, it would not work inside binder. Of course, I asked ChatGPT which code was necessary for this.
 
@@ -34,4 +34,4 @@ The chatbot demonstrates the techniques mentioned above. The following questions
 
 
 # Why this project
-I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of pyton. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with a diffrent purpose.
+I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of python. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with a diffrent purpose.
